@@ -18,7 +18,7 @@
  * ============================================================================
  */
 
-var DOCS_FOLDER_ID = '1jOe2IPDvrOp7VpDVOdurni0XzG0-TtYO';
+var DOCS_FOLDER_ID = 'https://drive.google.com/drive/u/1/folders/13ujwoGTO-SOTnMOhgepCEUy_pPX9VESB';
 
 /* Bumped whenever the API surface changes. index.html checks this so a stale
    deployment reports itself clearly instead of failing with a cryptic error. */
